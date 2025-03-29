@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suhas</h1>
 <h3 align="center">A passionate software developer from Bengalore, India</h3>
 
-- 🔭 I’m currently working on [reslit](https://github.com/rgsuhas/reslit) ResLit is a powerful AI-powered web application designed to generate tailored, ATS-optimized resumes using LaTeX templates.
+- 🔭 I’m currently working on [ResLit](https://github.com/rgsuhas/reslit) : It's a powerful AI-powered web application designed to generate tailored, ATS-optimized resumes using LaTeX templates.
 
 - 💬 Ask me about **react, golang, python, micro-services, and tech in general**
 
