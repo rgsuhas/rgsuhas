@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **langGraph & AI agents**
 
-- 👨‍💻 All of my projects are available at [---coming soon---](---coming soon---)
-
 - 💬 Ask me about **react, go, micro services**
 
 - 📫 How to reach me **rgsuhas6364@gmail.com**
