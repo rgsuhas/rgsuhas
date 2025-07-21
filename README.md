@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **langGraph & AI agents**
 
-- 💬 Ask me about **react, micro services, how i met ur jk.. **
+- 💬 Ask me about **react, micro services, how i met ur jk.**
 
 - 📫 How to reach me **rgsuhas6364@gmail.com**
 
