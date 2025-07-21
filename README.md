@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Suhas</h1>
-<h3 align="center">A full-stack developer from India</h3>
+<h3 align="center">A full-stack developer</h3>
 
 - 🔭 I’m currently working on [strikeit](https://github.com/rgsuhas/strikeit)
 
 - 🌱 I’m currently learning **langGraph & AI agents**
 
-- 💬 Ask me about **react, go, micro services**
+- 💬 Ask me about **react, micro services, how i met ur jk.. **
 
 - 📫 How to reach me **rgsuhas6364@gmail.com**
 
