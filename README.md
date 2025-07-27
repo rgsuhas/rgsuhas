@@ -7,7 +7,7 @@
 
 - 📄 Resume [https://drive.google.com/file/d/1j1z-daCBFq72xhOFAcNI_0bl7icApaDZ/view?usp=drive_link](https://drive.google.com/file/d/1j1z-daCBFq72xhOFAcNI_0bl7icApaDZ/view?usp=drive_link)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: rgsuhas6364@gmail.com</h3>
 <p align="left">
 </p>
 
