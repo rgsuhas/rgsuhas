@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suhas</h1>
 <h3 align="center">A full-stack developer</h3>
 
-- 🔭 I’m currently working on [strikeit](https://github.com/rgsuhas/strikeit)
+- 🔭 I’m currently working on [BitLog : a .md blog solution](https://github.com/rgsuhas/bitlog)
 
 - 🌱 I’m currently learning **langGraph & AI agents**
 
