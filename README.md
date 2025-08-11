@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=rgsuhas&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
 <h1 align="center">Hi 👋, I'm Suhas</h1>
 <h3 align="center">A full-stack developer</h3>
 
