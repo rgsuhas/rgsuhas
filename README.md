@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **langGraph & AI agents**
 
-- 📄 Resume [https://drive.google.com/file/d/1j1z-daCBFq72xhOFAcNI_0bl7icApaDZ/view?usp=drive_link](https://drive.google.com/file/d/1j1z-daCBFq72xhOFAcNI_0bl7icApaDZ/view?usp=drive_link)
+- 📄 Resume [drive_link](https://drive.google.com/file/d/1FluImP_ZUafyX7HWdjxnGzB3AjSPe_gI/view?usp=sharing)
 
 <h3 align="left">Connect with me: rgsuhas6364@gmail.com</h3>
 <p align="left">
