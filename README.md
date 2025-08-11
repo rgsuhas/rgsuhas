@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suhas</h1>
-<h3 align="center">A full-stack developer</h3># 💫 About Me:
+<h3 align="center">A full-stack developer</h3>
+# 💫 About Me:
+
 🔭 I’m currently working on bitlog<br>🤝 I’m looking for help with landing an internship<br>🌱 I’m currently learning langchain<br>💬 Ask me about building telegram bots and APIs
 
 
