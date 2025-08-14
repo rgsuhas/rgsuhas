@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suhas</h1>
-<h3 align="center">A full-stack developer</h3>
+<h3 align="center">A full-stack dev</h3>
 
 
 Checkout my portfolio [rgsuhas.vercel.app](https://rgsuhas.vercel.app)
