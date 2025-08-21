@@ -5,7 +5,7 @@
 Checkout my portfolio [rgsuhas.vercel.app](https://rgsuhas.vercel.app)
 
 
-🔭 I’m looking for help with landing an internship<br>🌱 I’m currently learning langchain<br>💬 Ask me about building telegram bots and APIs
+🔭 I’m looking for help with landing an internship<br>🌱 I’m currently learning langchain<br>
 
 
 ## 🌐 Socials:
