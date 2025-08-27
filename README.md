@@ -3,7 +3,11 @@
 # 👋 Hi, I'm Suhas  
 ### Full-Stack Developer | Building Scalable Web Applications  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rgsuhas.vercel.app-blue?style=for-the-badge)](https://rgsuhas.vercel.app)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-rgsuhas.vercel.app-blue?style=for-the-badge)](https://rgsuhas.vercel.app)   [![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rgsuhas07@gmail.com)    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rgsuhas)  
+
+<img src="https://komarev.com/ghpvc/?username=rgsuhas&label=Profile+Views&color=0e75b6&style=flat-square" alt="profile views"/>
+
+</span> 
 
 </div>
 
@@ -14,13 +18,6 @@
 - 🌱 Exploring **LangChain** and **AI-driven applications**  
 - 💡 Interested in **full-stack development, cloud computing, and scalable systems**
 
----
-
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rgsuhas)  
-[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rgsuhas07@gmail.com)  
-
-<img src="https://komarev.com/ghpvc/?username=rgsuhas&label=Profile+Views&color=0e75b6&style=flat-square" alt="profile views"/>
 
 ---
 
@@ -69,5 +66,11 @@
   </a>
   <a href="https://github.com/rgsuhas/spaceXplorer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rgsuhas&repo=spaceXplorer&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/rgsuhas/bitlog">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rgsuhas&repo=bitlog&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/rgsuhas/billy-the-board">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rgsuhas&repo=billy-the-board&theme=dark&hide_border=true" />
   </a>
 </p>
