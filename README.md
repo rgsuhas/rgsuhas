@@ -58,19 +58,3 @@
 </p>
 
 ---
-
-## 📌 Featured Projects  
-<p align="center">
-  <a href="https://github.com/rgsuhas/ktranslate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rgsuhas&repo=ktranslate&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/rgsuhas/spaceXplorer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rgsuhas&repo=spaceXplorer&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/rgsuhas/bitlog">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rgsuhas&repo=bitlog&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/rgsuhas/billy-the-board">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rgsuhas&repo=billy-the-board&theme=dark&hide_border=true" />
-  </a>
-</p>
