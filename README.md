@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Suhas  
-### Full-Stack Developer | Building Scalable Web Applications  
+### Software Engineer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rgsuhas.vercel.app-blue?style=for-the-badge)](https://rgsuhas.vercel.app)   [![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rgsuhas07@gmail.com)    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rgsuhas)  
 
