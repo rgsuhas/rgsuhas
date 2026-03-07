@@ -1,60 +1,53 @@
 <div align="center">
-
-# 👋 Hi, I'm Suhas  
-### Software Engineer
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-rgsuhas.vercel.app-blue?style=for-the-badge)](https://rgsuhas.vercel.app)   [![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rgsuhas07@gmail.com)    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rgsuhas)  
-
-<img src="https://komarev.com/ghpvc/?username=rgsuhas&label=Profile+Views&color=0e75b6&style=flat-square" alt="profile views"/>
-
-</span> 
-
+  <h1>Hi, I'm Suhas 👋</h1>
+  <h3>Software Engineer | Systems & Hardware Integration</h3>
+  <p>I build robust backend pipelines, embedded hardware systems, and scalable web platforms.</p>
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-rgsuhas.vercel.app-blue?style=for-the-badge)](https://rgsuhas.vercel.app)
+  [![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rgsuhas07@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rgsuhas)
 </div>
 
 ---
 
-## 🚀 About Me  
-- 🔭 Currently seeking **internship opportunities**  
-- 🌱 Exploring **LangChain** and **AI-driven applications**  
-- 💡 Interested in **full-stack development, cloud computing, and scalable systems**
+## 🏗️ Selected Engineering Work
 
+### 1. Distributed Systems & Web Platforms
+* **Vyas LDM / OpenCLM** *(Open Source Contributor)*  
+  Active contributor to the `@open-clm-suite` organization across frontend (`open-clm-webapp`), mobile (`vyas-app`), and backend (`api-layer`, `narad`) services for an open-source Contract Lifecycle Management platform.
+* **[Grievance Redressal System](https://github.com/project-s4/grs-webapp)** (Lead Dev: 85% contributions)
+  Full-stack civic-tech platform serving multi-role users (Citizens, Officers, Admins). Engineered with FastAPI, Next.js 14, custom RBAC authentication, and Gemini AI for automated categorization. Deployed on Render/Vercel with Supabase PostgreSQL.
+* **[Drive Downloader](https://github.com/rgsuhas/drive-downloader)** 
+  Robust Python CLI tool for recursive Google Drive folder traversal. Implements complex OAuth2 and Service Account authentication flows with resilient error handling and node tree parsing.
+* **[Scout (MCP Server)](https://github.com/rgsuhas/scout)**  
+  AI-powered Model Context Protocol (MCP) server for roadmap generation, utilizing Google Gemini. Functions as both a standalone REST API and a standardized AI agent integration tool.
+
+### 2. Embedded Hardware & IoT
+* **Pi Player (Production Ad-Tech System)** *(Private Client Work)*
+  Engineered a hardened, remote-managed Raspberry Pi media player. Features 4G/LTE connectivity, Quectel GPS telemetry, and real-time backend synchronization running as a systemd kiosk service.
+  *[📷 View Pi Player Ground Testing](./assets/remote-player.png)*
+
+* **Clippy — RP2040 GIF Display** *(Private Client Work)*
+  Bare-metal C++ embedded development on Seeed XIAO RP2040. Drives a 1.69" IPS LCD via 40MHz SPI, utilizing LittleFS flash storage and USB Mass Storage for drag-and-drop animated GIF playback.   
+  *[📷 View Clippy Display](./assets/clippy.png)*
+
+### 3. 🧪 Dev Tools & Experiments
+* **[Context7](https://github.com/rgsuhas/context7)** — Fast AI context file generator
+* **[ResLit](https://github.com/rgsuhas/reslit)** — Literature review automation script
+* **[Super-Repo](https://github.com/rgsuhas/super-repo)** — GBLMS Monorepo (FastAPI/React/Neo4j)
+*(Take a look at my repositories for more experimental tools and libraries!)*
 
 ---
 
-## 💻 Tech Stack  
-<div style="display: flex; flex-wrap: wrap; gap: 6px;">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white) 
-![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)  
-![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white) 
-![SQLite](https://img.shields.io/badge/SQLite-07405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Postgres](https://img.shields.io/badge/Postgres-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white) 
-![GitLab](https://img.shields.io/badge/GitLab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
-![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-
-</div>
+## 🛠️ Core Technologies
+* **Systems:** Python, Go, Kotlin, C++ (Embedded), Linux (systemd, bash)
+* **Backend:** FastAPI, Next.js, PostgreSQL, SQLite, REST APIs, OAuth
+* **Hardware:** Raspberry Pi, RP2040 Microcontrollers, I2C/SPI interfaces
+* **Cloud & DevOps:** Docker, Render, Vercel, Google Cloud
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rgsuhas&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=rgsuhas&theme=dark&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgsuhas&theme=dark&hide_border=true&layout=compact"/>
 </p>
-
----
