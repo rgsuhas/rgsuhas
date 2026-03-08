@@ -13,8 +13,6 @@
 ## 🏗️ Selected Engineering Work
 
 ### 1. Distributed Systems & Web Platforms
-* **Vyas LDM / OpenCLM** *(Open Source Contributor)*  
-  Active contributor to the `@open-clm-suite` organization across frontend (`open-clm-webapp`), mobile (`vyas-app`), and backend (`api-layer`, `narad`) services for an open-source Contract Lifecycle Management platform.
 * **[Grievance Redressal System](https://github.com/project-s4/grs-webapp)** (Lead Dev: 85% contributions)
   Full-stack civic-tech platform serving multi-role users (Citizens, Officers, Admins). Engineered with FastAPI, Next.js 14, custom RBAC authentication, and Gemini AI for automated categorization. Deployed on Render/Vercel with Supabase PostgreSQL.
 * **[Drive Downloader](https://github.com/rgsuhas/drive-downloader)** 
