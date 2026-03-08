@@ -32,7 +32,6 @@
   *[📷 View Clippy Display](./assets/clippy.png)*
 
 ### 3. 🧪 Dev Tools & Experiments
-* **[Context7](https://github.com/rgsuhas/context7)** — Fast AI context file generator
 * **[ResLit](https://github.com/rgsuhas/reslit)** — Literature review automation script
 * **[Super-Repo](https://github.com/rgsuhas/super-repo)** — GBLMS Monorepo (FastAPI/React/Neo4j)
 *(Take a look at my repositories for more experimental tools and libraries!)*
