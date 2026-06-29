@@ -1,4 +1,3 @@
----
   <div align="center">
     <h1>Hi, I'm Suhas </h1>
     <h3>Software Engineer — Backend Systems, AI Pipelines & Embedded Hardware</h3>
