@@ -1,11 +1,10 @@
 ---
   <div align="center">
-    <h1>Hi, I'm Suhas 👋 </h1>
+    <h1>Hi, I'm Suhas </h1>
     <h3>Software Engineer — Backend Systems, AI Pipelines & Embedded Hardware</h3>
     <p>I build production backend services, RAG/LLM integrations, and embedded IoT systems.</p>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rgsuhas07@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rgsuhas)
 [![Portfolio](https://img.shields.io/badge/Portfolio-rgsuhas.vercel.app-blue?style=for-the-badge)](https://rgsuhas.vercel.app)
     
   
@@ -66,15 +65,5 @@
   * **AI/ML:** LangChain, Google Gemini, RAG pipelines, Vector DBs, PyTorch
   * **Hardware:** Raspberry Pi, RP2040, I2C/SPI, systemd, 4G/LTE
   * **Infra:** Docker, Supabase, Vercel, Render, CI/CD pipelines
-
-  ---
-
-  ## 📊 GitHub Stats
-
-  <p align="center">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=rgsuhas&show_icons=true&theme=tokyoni
-  ght&hide_border=true&rank_icon=github" />
-    <img height="170" src="https://streak-stats.demolab.com?user=rgsuhas&theme=tokyonight&hide_border=true" />
-  </p>
 
   ---
