@@ -1,68 +1,40 @@
-  <div align="center">
-    <h1>Hi, I'm Suhas </h1>
-    <h3>Software Engineer — Backend Systems, AI Pipelines & Embedded Hardware</h3>
-    <p>I build production backend services, RAG/LLM integrations, and embedded IoT systems.</p>
+# Suhas
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rgsuhas07@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rgsuhas.vercel.app-blue?style=for-the-badge)](https://rgsuhas.vercel.app)
-    
-  
-  </div>
+Backend engineer. Build production services, RAG/LLM pipelines, and embedded IoT systems.
 
-  ---
+[Email](mailto:rgsuhas07@gmail.com) · [Portfolio](https://rgsuhas.vercel.app)
 
-  ## 🏗 Selected Engineering Work
+---
 
-  * **[ResLit](https://github.com/rgsuhas/reslit)**
-    ATS-optimized resume builder that analyzes job descriptions and rewrites resume content using AI, then compiles
-  to LaTeX PDF. Full-stack: React + TailwindCSS frontend, FastAPI AI service, MongoDB Atlas, AWS S3, Firebase auth.
+## Engineering Work
 
-  * **[shr8 / LinkShrink](https://github.com/rgsuhas/shr8)**
-    Scalable URL shortener with QR code generation, click analytics, user dashboards, and rate limiting. p99 latency
-   <50ms. Built with Next.js 14, MySQL (PlanetScale), Drizzle ORM, Upstash Redis, NextAuth.
+**[ResLit](https://github.com/rgsuhas/reslit)**: ATS-optimized resume builder. Rewrites resume content against a job description via AI, compiles to LaTeX PDF. React + Tailwind, FastAPI, MongoDB Atlas, S3, Firebase auth.
 
-  * **[RAGX](https://github.com/rgsuhas/ragx)**
-    Production RAG service with streaming responses — handles ingestion, chunking, embedding, vector indexing,
-  retrieval, and synthesis with evaluation instrumentation for relevance and faithfulness metrics.
+**[shr8 / LinkShrink](https://github.com/rgsuhas/shr8)**: URL shortener with QR codes, click analytics, rate limiting. p99 <50ms. Next.js 14, PlanetScale MySQL, Drizzle, Upstash Redis, NextAuth.
 
+**[RAGX](https://github.com/rgsuhas/ragx)**: RAG service with streaming responses. Ingestion, chunking, embedding, vector indexing, retrieval, synthesis, plus relevance/faithfulness eval instrumentation.
 
-  ### Embedded Hardware & IoT
+### Embedded / IoT (private client work)
 
-  * **Pi Player — Production Ad-Tech System** *(Private Client Work)*
-    Hardened remote-managed Raspberry Pi media player with 4G/LTE connectivity, Quectel GPS telemetry, and real-time
-   backend synchronization. Runs as a systemd kiosk service; reduced on-site maintenance by 60%.
-    *[📷 Ground Testing](./assets/remote-player.png)*
+**Pi Player**: Remote-managed Raspberry Pi media player. 4G/LTE, GPS telemetry, real-time backend sync, systemd kiosk service. Cut on-site maintenance ~60%.
 
-  * **Clippy — RP2040 GIF Display** *(Private Client Work)*
-    Bare-metal C++ on Seeed XIAO RP2040. Drives a 1.69" IPS LCD over 40MHz SPI, using LittleFS flash storage and USB
-   Mass Storage for drag-and-drop animated GIF playback.
-    *[📷 Clippy Display](./assets/clippy.png)*
+**Clippy**: Bare-metal C++ on RP2040. Drives a 1.69" IPS LCD over 40MHz SPI, LittleFS storage, USB Mass Storage drag-and-drop GIF playback.
 
-  ### Experiments & Small Tools
+### Smaller tools
 
-  * **[KTranslate](https://github.com/rgsuhas/ktranslate)** — Telegram bot for real-time group chat translation with
-   fallback engines (Python + FastAPI + Docker)
-  * **[Drive Downloader](https://github.com/rgsuhas/drive-downloader)** — CLI tool for recursive Google Drive folder
-   downloads; handles OAuth2 and Service Account auth (Go)
-  * **[Strikeit](https://github.com/rgsuhas/strikeit)** — Minimal shareable to-do lists with real-time collaboration
-   via custom URLs, no login required (Next.js + Supabase Realtime)
-  * **[terminal](https://github.com/rgsuhas/terminal)** — Interactive terminal-style portfolio with animated
-  constellation background and Unix command navigation (Next.js 15)
-  * **[effex](https://github.com/rgsuhas/effex)** — Browser-based image filter app: watercolor, pencil sketch,
-  cartoon, HDR (Python Streamlit)
-  * **[Pest Detector](https://github.com/rgsuhas/pest-detector)** — TensorFlow Lite model for crop pest
-  identification from images (Python)
+* **[KTranslate](https://github.com/rgsuhas/ktranslate)**: Telegram bot, real-time group chat translation with fallback engines
+* **[Drive Downloader](https://github.com/rgsuhas/drive-downloader)**: CLI for recursive Google Drive downloads, OAuth2 + service account auth
+* **[Strikeit](https://github.com/rgsuhas/strikeit)**: shareable to-do lists via custom URLs, no login
+* **[terminal](https://github.com/rgsuhas/terminal)**: terminal-style portfolio site
+* **[effex](https://github.com/rgsuhas/effex)**: browser image filters (watercolor, sketch, HDR)
+* **[Pest Detector](https://github.com/rgsuhas/pest-detector)**: TFLite crop pest identification
 
-  *(More in the repos tab — dotfiles, scrapers, and other half-finished ideas.)*
+---
 
-  ---
+## Stack
 
-  ## Core Technologies
-
-  * **Languages:** Python, Go, TypeScript, C++ (Embedded), Kotlin
-  * **Backend:** FastAPI, Next.js, PostgreSQL, Redis, Neo4j, REST, gRPC
-  * **AI/ML:** LangChain, Google Gemini, RAG pipelines, Vector DBs, PyTorch
-  * **Hardware:** Raspberry Pi, RP2040, I2C/SPI, systemd, 4G/LTE
-  * **Infra:** Docker, Supabase, Vercel, Render, CI/CD pipelines
-
-  ---
+* **Languages:** Python, Go, TypeScript, C++, Kotlin
+* **Backend:** FastAPI, Next.js, PostgreSQL, Redis, Neo4j, REST, gRPC
+* **AI/ML:** LangChain, Gemini, RAG pipelines, vector DBs, PyTorch
+* **Hardware:** Raspberry Pi, RP2040, I2C/SPI, systemd, 4G/LTE
+* **Infra:** Docker, Supabase, Vercel, Render, CI/CD
