@@ -14,12 +14,6 @@ Backend engineer. Build production services, RAG/LLM pipelines, and embedded IoT
 
 **[RAGX](https://github.com/rgsuhas/ragx)**: RAG service with streaming responses. Ingestion, chunking, embedding, vector indexing, retrieval, synthesis, plus relevance/faithfulness eval instrumentation.
 
-### Embedded / IoT (private client work)
-
-**Pi Player**: Remote-managed Raspberry Pi media player. 4G/LTE, GPS telemetry, real-time backend sync, systemd kiosk service. Cut on-site maintenance ~60%.
-
-**Clippy**: Bare-metal C++ on RP2040. Drives a 1.69" IPS LCD over 40MHz SPI, LittleFS storage, USB Mass Storage drag-and-drop GIF playback.
-
 ### Smaller tools
 
 * **[KTranslate](https://github.com/rgsuhas/ktranslate)**: Telegram bot, real-time group chat translation with fallback engines
