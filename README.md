@@ -1,6 +1,6 @@
 # Suhas
 
-I build things I wish existed. Backend systems, RAG pipelines, the occasional microcontroller fiddlings.
+I build things that I wish existed. Backend systems, RAG pipelines, the occasional microcontroller fiddlings.
 
 [Email](mailto:rgsuhas07@gmail.com) · [Portfolio](https://rgsuhas.vercel.app)
 
